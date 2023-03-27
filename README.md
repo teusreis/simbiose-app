@@ -7,6 +7,7 @@ App de listagem de Rouanet!
 ## Tecnologias
 
 - React
+- Typescript
 - Axios
 - Tailwind
 
